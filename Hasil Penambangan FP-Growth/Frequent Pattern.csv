@@ -1,0 +1,794 @@
+Itemsets,support
+"('Longitude 8',)",3069
+"('Region Name SOUTHERN ALASKA',)",3160
+"('Longitude 59',)",3178
+"('Latitude 143',)",3198
+"('Depth 59',)",3238
+"('Latitude 171',)",3320
+"('Longitude 49',)",3410
+"('Longitude 49', 'Magnitude Type ML')",3252
+"('Latitude 183',)",3416
+"('Region Name NORTHERN CALIFORNIA',)",3421
+"('Magnitude 106',)",3482
+"('Magnitude 106', 'Magnitude Type mb')",3096
+"('Latitude 147',)",3517
+"('Region Name VIRGIN ISLANDS REGION',)",3529
+"('Longitude 30', 'Region Name VIRGIN ISLANDS REGION')",3529
+"('Region Name CENTRAL CALIFORNIA',)",3679
+"('Depth 45',)",3684
+"('Magnitude 80',)",3865
+"('Magnitude Type ML', 'Region Name TARAPACA, CHILE')",3596
+"('Longitude 29', 'Magnitude Type ML', 'Region Name TARAPACA, CHILE')",3493
+"('Longitude 29', 'Region Name TARAPACA, CHILE')",3786
+"('Longitude 0',)",3902
+"('Region Name AEGEAN SEA',)",3924
+"('Magnitude Type ML', 'Region Name AEGEAN SEA')",3889
+"('Magnitude 103',)",4086
+"('Magnitude 103', 'Magnitude Type mb')",3623
+"('Magnitude Type ML', 'Region Name SOUTHERN GREECE')",4079
+"('Longitude 53', 'Magnitude Type ML', 'Region Name SOUTHERN GREECE')",4059
+"('Longitude 53', 'Region Name SOUTHERN GREECE')",4130
+"('Longitude 52', 'Region Name IONIAN SEA')",3962
+"('Longitude 52', 'Magnitude Type ML', 'Region Name IONIAN SEA')",3843
+"('Latitude 176', 'Longitude 52', 'Region Name IONIAN SEA')",3523
+"('Latitude 176', 'Longitude 52', 'Magnitude Type ML', 'Region Name IONIAN SEA')",3417
+"('Latitude 176', 'Magnitude Type ML', 'Region Name IONIAN SEA')",3838
+"('Magnitude Type ML', 'Region Name IONIAN SEA')",4357
+"('Depth 22',)",4577
+"('Depth 22', 'Magnitude Type ML')",3438
+"('Latitude 144', 'Region Name OAXACA, MEXICO')",3501
+"('Latitude 144', 'Magnitude Type  M', 'Region Name OAXACA, MEXICO')",3376
+"('Latitude 144', 'Magnitude Type  M')",4307
+"('Depth 24',)",4643
+"('Depth 24', 'Magnitude Type ML')",3497
+"('Region Name PUERTO RICO REGION',)",4698
+"('Magnitude Type Md', 'Region Name PUERTO RICO REGION')",3355
+"('Magnitude 85',)",4750
+"('Longitude 7',)",4764
+"('Magnitude 77',)",4881
+"('Magnitude 100',)",4890
+"('Magnitude 100', 'Magnitude Type mb')",4317
+"('Depth 26',)",4900
+"('Depth 32',)",4930
+"('Latitude 175', 'Longitude 54', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",3138
+"('Latitude 175', 'Longitude 54', 'Magnitude Type ML', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",3117
+"('Latitude 175', 'Magnitude Type ML', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",3418
+"('Longitude 54', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",3991
+"('Longitude 54', 'Magnitude Type ML', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",3960
+"('Magnitude Type ML', 'Region Name DODECANESE IS.-TURKEY BORDER REG')",4934
+"('Magnitude 87',)",4975
+"('Region Name OAXACA, MEXICO',)",4996
+"('Magnitude Type  M', 'Region Name OAXACA, MEXICO')",4818
+"('Magnitude 90',)",5049
+"('Magnitude 90', 'Magnitude Type mb')",3543
+"('Magnitude 82',)",5104
+"('Longitude 56', 'Region Name CENTRAL TURKEY')",3704
+"('Longitude 56', 'Magnitude Type ML', 'Region Name CENTRAL TURKEY')",3659
+"('Longitude 56', 'Magnitude Type ML')",4915
+"('Magnitude 93',)",5222
+"('Magnitude 93', 'Magnitude Type mb')",4134
+"('Magnitude 98',)",5409
+"('Magnitude 98', 'Magnitude Type mb')",4642
+"('Magnitude Type ML', 'Region Name ANTOFAGASTA, CHILE')",5025
+"('Longitude 29', 'Magnitude Type ML', 'Region Name ANTOFAGASTA, CHILE')",4811
+"('Longitude 29', 'Region Name ANTOFAGASTA, CHILE')",5204
+"('Magnitude 75',)",5479
+"('Day 66',)",5516
+"('Day 66', 'Magnitude Type ML')",3521
+"('Depth 25',)",5779
+"('Depth 25', 'Magnitude Type ML')",3760
+"('Magnitude 95',)",5784
+"('Magnitude 95', 'Magnitude Type mb')",4782
+"('Magnitude Type M ',)",5856
+"('Longitude 57',)",5857
+"('Longitude 57', 'Magnitude Type ML')",5668
+"('Magnitude Type mb', 'Region Name OKLAHOMA')",3210
+"('Longitude 21', 'Magnitude Type mb', 'Region Name OKLAHOMA')",3182
+"('Longitude 21', 'Region Name OKLAHOMA')",5815
+"('Latitude 181',)",6013
+"('Latitude 181', 'Magnitude Type ML')",5100
+"('Depth 9',)",6021
+"('Depth 9', 'Magnitude Type ML')",4238
+"('Latitude 172', 'Region Name CRETE, GREECE')",3782
+"('Latitude 172', 'Magnitude Type ML', 'Region Name CRETE, GREECE')",3695
+"('Latitude 172', 'Magnitude Type ML')",5482
+"('Latitude 148', 'Longitude 30')",3397
+"('Longitude 30', 'Magnitude Type Md')",4101
+"('Magnitude 72',)",6296
+"('Magnitude 72', 'Magnitude Type ML')",3491
+"('Region Name CENTRAL TURKEY',)",6372
+"('Magnitude Type ML', 'Region Name CENTRAL TURKEY')",6304
+"('Longitude 54', 'Region Name CRETE, GREECE')",3625
+"('Longitude 54', 'Magnitude Type ML', 'Region Name CRETE, GREECE')",3467
+"('Magnitude Type ML', 'Region Name CRETE, GREECE')",6347
+"('Latitude 173',)",6625
+"('Latitude 173', 'Magnitude Type ML')",4979
+"('Longitude 58', 'Region Name EASTERN TURKEY')",5716
+"('Longitude 58', 'Magnitude Type ML', 'Region Name EASTERN TURKEY')",5648
+"('Longitude 58', 'Magnitude Type ML')",6378
+"('Depth 20',)",6698
+"('Depth 20', 'Magnitude Type ML')",5478
+"('Magnitude 67',)",6793
+"('Magnitude 67', 'Magnitude Type ML')",4179
+"('Latitude 179', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",3338
+"('Latitude 179', 'Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",3321
+"('Latitude 179', 'Longitude 54', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",3338
+"('Latitude 179', 'Longitude 54', 'Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",3321
+"('Region Name NEAR THE COAST OF WESTERN TURKEY', 'Year 33')",4035
+"('Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY', 'Year 33')",4013
+"('Longitude 54', 'Region Name NEAR THE COAST OF WESTERN TURKEY', 'Year 33')",4035
+"('Longitude 54', 'Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY', 'Year 33')",4013
+"('Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",6796
+"('Longitude 54', 'Magnitude Type ML', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",6796
+"('Longitude 54', 'Region Name NEAR THE COAST OF WESTERN TURKEY')",6830
+"('Latitude 184', 'Longitude 50', 'Region Name CENTRAL ITALY')",4414
+"('Latitude 184', 'Longitude 50', 'Magnitude Type ML', 'Region Name CENTRAL ITALY')",4368
+"('Latitude 184', 'Magnitude Type ML', 'Region Name CENTRAL ITALY')",5311
+"('Longitude 50', 'Region Name CENTRAL ITALY')",5656
+"('Longitude 50', 'Magnitude Type ML', 'Region Name CENTRAL ITALY')",5601
+"('Magnitude Type ML', 'Region Name CENTRAL ITALY')",6854
+"('Longitude 51',)",7016
+"('Longitude 51', 'Magnitude Type ML')",6766
+"('Longitude 16',)",7082
+"('Longitude 16', 'Magnitude Type ML')",5132
+"('Longitude 22', 'Year 41')",3146
+"('Longitude 22', 'Magnitude Type  M', 'Year 41')",3031
+"('Longitude 22', 'Magnitude Type  M')",6424
+"('Magnitude 69',)",7364
+"('Magnitude 69', 'Magnitude Type ML')",4467
+"('Magnitude Type Mw',)",7410
+"('Depth 10',)",7452
+"('Depth 10', 'Magnitude Type ML')",5421
+"('Magnitude 64',)",7463
+"('Magnitude 64', 'Magnitude Type ML')",5041
+"('Latitude 184', 'Longitude 50')",4415
+"('Latitude 184', 'Longitude 50', 'Magnitude Type ML')",4368
+"('Latitude 184', 'Magnitude Type ML')",6879
+"('Depth 21',)",7627
+"('Depth 21', 'Magnitude Type ML')",6157
+"('Latitude 180',)",8274
+"('Latitude 180', 'Magnitude Type ML')",6858
+"('Longitude 50',)",8274
+"('Longitude 50', 'Magnitude Type ML')",8107
+"('Longitude 15',)",8350
+"('Longitude 15', 'Magnitude Type MD')",4879
+"('Magnitude Type Ml',)",8512
+"('Magnitude Type Ml', 'Year 24')",4261
+"('Magnitude 62',)",8590
+"('Magnitude 62', 'Magnitude Type ML')",6251
+"('Depth 17',)",8698
+"('Depth 17', 'Magnitude Type ML')",7343
+"('Latitude 178', 'Region Name EASTERN TURKEY')",3979
+"('Latitude 178', 'Magnitude Type ML', 'Region Name EASTERN TURKEY')",3939
+"('Magnitude Type ML', 'Region Name EASTERN TURKEY')",9088
+"('Day 62',)",9285
+"('Day 62', 'Magnitude Type ML')",6201
+"('Day 64',)",9293
+"('Day 64', 'Magnitude Type ML')",6141
+"('Day 13',)",9309
+"('Day 13', 'Magnitude Type ML')",5810
+"('Day 46',)",9524
+"('Day 46', 'Magnitude Type ML')",6132
+"('Magnitude 59',)",9566
+"('Magnitude 59', 'Magnitude Type ML')",7227
+"('Day 29',)",9607
+"('Day 29', 'Magnitude Type ML')",5977
+"('Day 8',)",9676
+"('Day 8', 'Magnitude Type ML')",5942
+"('Day 49',)",9684
+"('Day 49', 'Magnitude Type ML')",6107
+"('Day 6',)",9701
+"('Day 6', 'Magnitude Type ML')",6272
+"('Day 31',)",9724
+"('Day 31', 'Magnitude Type ML')",6099
+"('Day 11',)",9746
+"('Day 11', 'Magnitude Type ML')",6065
+"('Day 44',)",9760
+"('Day 44', 'Magnitude Type ML')",6226
+"('Day 55',)",9761
+"('Day 55', 'Magnitude Type ML')",6214
+"('Longitude 29', 'Magnitude Type Md')",3243
+"('Latitude 148', 'Magnitude Type Md')",4928
+"('Day 42',)",9845
+"('Day 42', 'Magnitude Type ML')",6124
+"('Day 15',)",9855
+"('Day 15', 'Magnitude Type ML')",6217
+"('Day 58',)",9874
+"('Day 58', 'Magnitude Type ML')",6369
+"('Day 0',)",9890
+"('Day 0', 'Magnitude Type ML')",6462
+"('Day 60',)",9901
+"('Day 60', 'Magnitude Type ML')",6392
+"('Day 33',)",9917
+"('Day 33', 'Magnitude Type ML')",6199
+"('Magnitude 54',)",9935
+"('Magnitude 54', 'Magnitude Type ML')",7995
+"('Day 35',)",9939
+"('Day 35', 'Magnitude Type ML')",6132
+"('Magnitude Type ML', 'Year 49')",4139
+"('Month 5', 'Year 49')",4145
+"('Month 0', 'Year 49')",4150
+"('Day 22',)",9965
+"('Day 22', 'Magnitude Type ML')",6370
+"('Day 17',)",10060
+"('Day 17', 'Magnitude Type ML')",6449
+"('Day 51',)",10135
+"('Day 51', 'Magnitude Type ML')",6702
+"('Day 20',)",10141
+"('Day 20', 'Magnitude Type ML')",6419
+"('Day 24',)",10152
+"('Day 24', 'Magnitude Type ML')",6476
+"('Day 37',)",10159
+"('Day 37', 'Magnitude Type ML')",6401
+"('Day 26',)",10189
+"('Day 26', 'Magnitude Type ML')",6385
+"('Day 2',)",10189
+"('Day 2', 'Magnitude Type ML')",6453
+"('Depth 13',)",10315
+"('Depth 13', 'Magnitude Type ML')",8205
+"('Day 53',)",10354
+"('Day 53', 'Magnitude Type ML')",6677
+"('Day 40',)",10386
+"('Day 40', 'Magnitude Type ML')",6392
+"('Day 4',)",10459
+"('Day 4', 'Magnitude Type ML')",6755
+"('Latitude 174',)",10850
+"('Latitude 174', 'Magnitude Type ML')",7219
+"('Longitude 21', 'Year 41')",3025
+"('Depth 12', 'Longitude 21')",3292
+"('Longitude 21', 'Magnitude Type mb')",4092
+"('Longitude 21', 'Magnitude Type  M')",4531
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3132
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3132
+"('Depth 5', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3132
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3130
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3132
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3130
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3135
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 28')",3137
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28')",3137
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Year 41')",3134
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",3134
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 28')",3142
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",3136
+"('Depth 5', 'Magnitude Type ML', 'Month 28', 'Year 41')",3157
+"('Depth 5', 'Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3422
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3422
+"('Depth 5', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3422
+"('Depth 5', 'Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3417
+"('Depth 5', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3422
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3417
+"('Depth 5', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3428
+"('Depth 5', 'Latitude 148', 'Month 28')",3431
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 28')",3431
+"('Depth 5', 'Latitude 148', 'Month 28', 'Year 41')",3425
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 28', 'Year 41')",3425
+"('Depth 5', 'Longitude 6', 'Month 28')",3439
+"('Depth 5', 'Longitude 6', 'Month 28', 'Year 41')",3430
+"('Depth 5', 'Month 28', 'Year 41')",3462
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3927
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3927
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Year 41')",3927
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3926
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",3927
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3926
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33')",3928
+"('Depth 5', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3929
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3929
+"('Depth 5', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3927
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3927
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 33')",3930
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",3928
+"('Depth 5', 'Magnitude Type ML', 'Month 33', 'Year 41')",3955
+"('Depth 5', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4363
+"('Depth 5', 'Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4361
+"('Depth 5', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4363
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4361
+"('Depth 5', 'Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4366
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4366
+"('Depth 5', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4369
+"('Depth 5', 'Latitude 148', 'Month 33')",4371
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 33')",4371
+"('Depth 5', 'Latitude 148', 'Month 33', 'Year 41')",4366
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Month 33', 'Year 41')",4366
+"('Depth 5', 'Longitude 6', 'Month 33')",4376
+"('Depth 5', 'Longitude 6', 'Month 33', 'Year 41')",4368
+"('Depth 5', 'Month 33', 'Year 41')",4411
+"('Depth 5', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8228
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8216
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8228
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8216
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8252
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8252
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8268
+"('Depth 5', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9262
+"('Depth 5', 'Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9246
+"('Depth 5', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9262
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9246
+"('Depth 5', 'Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII')",9366
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",9366
+"('Depth 5', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",9388
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML')",8290
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML')",8290
+"('Depth 5', 'Latitude 148', 'Magnitude Type ML', 'Year 41')",8249
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Year 41')",8249
+"('Depth 5', 'Latitude 148', 'Year 41')",9329
+"('Depth 5', 'Latitude 148', 'Longitude 6', 'Year 41')",9329
+"('Depth 5', 'Latitude 148', 'Longitude 6')",9456
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML')",8350
+"('Depth 5', 'Longitude 6', 'Magnitude Type ML', 'Year 41')",8283
+"('Depth 5', 'Longitude 6', 'Year 41')",9395
+"('Depth 5', 'Magnitude Type ML')",9708
+"('Depth 5', 'Magnitude Type ML', 'Year 41')",8825
+"('Depth 5', 'Year 41')",10199
+"('Longitude 55', 'Region Name WESTERN TURKEY')",9376
+"('Longitude 55', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",9273
+"('Longitude 55', 'Magnitude Type ML')",11758
+"('Depth 16',)",12114
+"('Depth 16', 'Magnitude Type ML')",10272
+"('Magnitude 51', 'Year 41')",3030
+"('Magnitude 51', 'Magnitude Type ML')",9853
+"('Depth 14',)",12306
+"('Depth 14', 'Magnitude Type ML')",10538
+"('Magnitude 56', 'Year 41')",3363
+"('Magnitude 56', 'Magnitude Type ML')",9771
+"('Magnitude Type MD', 'Region Name ISLAND OF HAWAII, HAWAII')",3219
+"('Longitude 6', 'Magnitude Type MD', 'Region Name ISLAND OF HAWAII, HAWAII')",3219
+"('Latitude 148', 'Magnitude Type MD', 'Region Name ISLAND OF HAWAII, HAWAII')",3063
+"('Latitude 148', 'Longitude 6', 'Magnitude Type MD', 'Region Name ISLAND OF HAWAII, HAWAII')",3063
+"('Longitude 6', 'Magnitude Type MD')",3523
+"('Latitude 148', 'Longitude 6', 'Magnitude Type MD')",3255
+"('Latitude 148', 'Magnitude Type MD')",4304
+"('Magnitude Type MD', 'Year 41')",4618
+"('Latitude 179', 'Year 33')",3863
+"('Latitude 179', 'Magnitude Type ML', 'Year 33')",3609
+"('Latitude 179', 'Longitude 54')",5489
+"('Latitude 179', 'Longitude 54', 'Magnitude Type ML')",5466
+"('Latitude 179', 'Magnitude Type ML')",11593
+"('Magnitude 49', 'Year 41')",3443
+"('Magnitude 49', 'Magnitude Type ML', 'Year 41')",3122
+"('Magnitude 49', 'Magnitude Type ML')",10983
+"('Region Name GREECE', 'Year 8')",3768
+"('Magnitude Type ML', 'Region Name GREECE', 'Year 8')",3693
+"('Latitude 178', 'Region Name GREECE')",4254
+"('Latitude 178', 'Magnitude Type ML', 'Region Name GREECE')",4211
+"('Latitude 177', 'Longitude 52', 'Region Name GREECE')",3897
+"('Latitude 177', 'Longitude 52', 'Magnitude Type ML', 'Region Name GREECE')",3833
+"('Longitude 52', 'Magnitude Type ML', 'Region Name GREECE')",6061
+"('Latitude 177', 'Region Name GREECE')",6786
+"('Latitude 177', 'Magnitude Type ML', 'Region Name GREECE')",6687
+"('Longitude 53', 'Region Name GREECE')",7379
+"('Longitude 53', 'Magnitude Type ML', 'Region Name GREECE')",7287
+"('Magnitude Type ML', 'Region Name GREECE')",13369
+"('Longitude 52', 'Year 8')",3230
+"('Longitude 52', 'Magnitude Type ML', 'Year 8')",3160
+"('Latitude 176', 'Longitude 52')",3523
+"('Latitude 176', 'Longitude 52', 'Magnitude Type ML')",3417
+"('Latitude 177', 'Longitude 52')",4126
+"('Latitude 177', 'Longitude 52', 'Magnitude Type ML')",4058
+"('Longitude 52', 'Magnitude Type ML')",13567
+"('Latitude 176', 'Year 41')",3613
+"('Latitude 176', 'Magnitude Type ML', 'Year 41')",3138
+"('Latitude 176', 'Magnitude Type ML')",12267
+"('Latitude 177', 'Longitude 53')",3495
+"('Latitude 177', 'Longitude 53', 'Magnitude Type ML')",3450
+"('Latitude 177', 'Year 8')",4413
+"('Latitude 177', 'Magnitude Type ML', 'Year 8')",4193
+"('Latitude 177', 'Magnitude Type ML')",14103
+"('Magnitude 46', 'Year 41')",4143
+"('Magnitude 46', 'Magnitude Type ML', 'Year 41')",3741
+"('Magnitude 46', 'Magnitude Type ML')",12634
+"('Latitude 175', 'Year 33')",3586
+"('Latitude 175', 'Region Name WESTERN TURKEY')",3788
+"('Latitude 175', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",3748
+"('Latitude 175', 'Longitude 54')",5427
+"('Latitude 175', 'Longitude 54', 'Magnitude Type ML')",5381
+"('Latitude 175', 'Magnitude Type ML')",12262
+"('Longitude 28', 'Year 24')",3381
+"('Longitude 28', 'Year 8')",3461
+"('Longitude 28', 'Year 16')",3623
+"('Longitude 28', 'Magnitude Type ML')",12846
+"('Longitude 6', 'Magnitude 41')",3149
+"('Latitude 148', 'Magnitude 41')",3184
+"('Magnitude 41', 'Year 41')",4301
+"('Magnitude 41', 'Magnitude Type ML', 'Year 41')",3633
+"('Magnitude 41', 'Magnitude Type ML')",13417
+"('Longitude 29', 'Year 16')",3147
+"('Longitude 29', 'Year 8')",3625
+"('Longitude 29', 'Magnitude Type ML')",11412
+"('Magnitude Type  M', 'Year 33')",4953
+"('Magnitude Type  M', 'Year 41')",8820
+"('Magnitude 43', 'Region Name ISLAND OF HAWAII, HAWAII')",3091
+"('Longitude 6', 'Magnitude 43', 'Region Name ISLAND OF HAWAII, HAWAII')",3091
+"('Magnitude 43', 'Year 24')",3159
+"('Longitude 6', 'Magnitude 43')",3294
+"('Latitude 148', 'Longitude 6', 'Magnitude 43')",3095
+"('Latitude 148', 'Magnitude 43')",3374
+"('Magnitude 43', 'Year 41')",4864
+"('Magnitude 43', 'Magnitude Type ML', 'Year 41')",4295
+"('Magnitude 43', 'Magnitude Type ML')",14916
+"('Depth 8', 'Year 8')",3154
+"('Depth 8', 'Year 41')",4504
+"('Depth 8', 'Magnitude Type ML', 'Year 41')",3351
+"('Depth 8', 'Magnitude Type ML')",13589
+"('Longitude 53', 'Year 33')",3070
+"('Longitude 53', 'Magnitude Type ML', 'Year 33')",3032
+"('Latitude 178', 'Longitude 53')",3156
+"('Latitude 178', 'Longitude 53', 'Magnitude Type ML')",3126
+"('Longitude 53', 'Year 8')",3446
+"('Longitude 53', 'Magnitude Type ML', 'Year 8')",3393
+"('Longitude 53', 'Year 0')",3712
+"('Longitude 53', 'Magnitude Type ML', 'Year 0')",3646
+"('Longitude 53', 'Magnitude Type ML')",17875
+"('Latitude 148', 'Magnitude 38')",3028
+"('Magnitude 38', 'Year 8')",3032
+"('Magnitude 38', 'Year 41')",4135
+"('Magnitude 38', 'Magnitude Type ML', 'Year 41')",3319
+"('Magnitude 38', 'Magnitude Type ML')",14273
+"('Region Name WESTERN TURKEY', 'Year 33')",3181
+"('Magnitude Type ML', 'Region Name WESTERN TURKEY', 'Year 33')",3149
+"('Region Name WESTERN TURKEY', 'Year 24')",3218
+"('Magnitude Type ML', 'Region Name WESTERN TURKEY', 'Year 24')",3203
+"('Magnitude 31', 'Region Name WESTERN TURKEY')",3250
+"('Magnitude 31', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",3243
+"('Region Name WESTERN TURKEY', 'Year 8')",3546
+"('Magnitude Type ML', 'Region Name WESTERN TURKEY', 'Year 8')",3495
+"('Latitude 178', 'Region Name WESTERN TURKEY')",3656
+"('Latitude 178', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",3631
+"('Depth 12', 'Region Name WESTERN TURKEY')",3993
+"('Depth 12', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",3974
+"('Region Name WESTERN TURKEY', 'Year 0')",4639
+"('Magnitude Type ML', 'Region Name WESTERN TURKEY', 'Year 0')",4620
+"('Longitude 54', 'Region Name WESTERN TURKEY')",9212
+"('Longitude 54', 'Magnitude Type ML', 'Region Name WESTERN TURKEY')",9162
+"('Magnitude Type ML', 'Region Name WESTERN TURKEY')",18435
+"('Magnitude 36', 'Region Name ISLAND OF HAWAII, HAWAII')",3209
+"('Latitude 148', 'Magnitude 36', 'Region Name ISLAND OF HAWAII, HAWAII')",3078
+"('Longitude 6', 'Magnitude 36', 'Region Name ISLAND OF HAWAII, HAWAII')",3209
+"('Latitude 148', 'Longitude 6', 'Magnitude 36', 'Region Name ISLAND OF HAWAII, HAWAII')",3078
+"('Latitude 148', 'Magnitude 36')",3342
+"('Latitude 148', 'Longitude 6', 'Magnitude 36')",3172
+"('Longitude 6', 'Magnitude 36')",3391
+"('Longitude 54', 'Magnitude 36')",3466
+"('Longitude 54', 'Magnitude 36', 'Magnitude Type ML')",3465
+"('Magnitude 36', 'Year 24')",3518
+"('Magnitude 36', 'Year 33')",3564
+"('Magnitude 36', 'Magnitude Type ML', 'Year 33')",3050
+"('Magnitude 36', 'Year 41')",4683
+"('Magnitude 36', 'Magnitude Type ML', 'Year 41')",3531
+"('Magnitude 36', 'Magnitude Type ML')",15741
+"('Depth 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3430
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3429
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3430
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3429
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3435
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3435
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3438
+"('Depth 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3805
+"('Depth 6', 'Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3804
+"('Depth 6', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3805
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",3804
+"('Depth 6', 'Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3816
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3816
+"('Depth 6', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",3819
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 28')",3437
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 28', 'Year 41')",3429
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28')",3437
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",3429
+"('Depth 6', 'Latitude 148', 'Month 28', 'Year 41')",3808
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 28', 'Year 41')",3808
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 28')",3823
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 28')",3441
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",3431
+"('Depth 6', 'Longitude 6', 'Month 28', 'Year 41')",3810
+"('Depth 6', 'Month 28', 'Year 41')",3893
+"('Depth 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",3484
+"('Depth 6', 'Magnitude Type ML', 'Month 28')",4080
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 33')",4186
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4185
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33')",4186
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Year 41')",4179
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4185
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4179
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",4179
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4179
+"('Depth 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4188
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4188
+"('Depth 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4180
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4180
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 33')",4189
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",4180
+"('Depth 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",4243
+"('Depth 6', 'Latitude 148', 'Month 33')",4822
+"('Depth 6', 'Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4821
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 33')",4822
+"('Depth 6', 'Latitude 148', 'Month 33', 'Year 41')",4806
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4821
+"('Depth 6', 'Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4806
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 33', 'Year 41')",4806
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4806
+"('Depth 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4826
+"('Depth 6', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",4826
+"('Depth 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4808
+"('Depth 6', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",4808
+"('Depth 6', 'Longitude 6', 'Month 33')",4829
+"('Depth 6', 'Longitude 6', 'Month 33', 'Year 41')",4808
+"('Depth 6', 'Month 33', 'Year 41')",4908
+"('Depth 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8632
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8632
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8627
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8627
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8760
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8760
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",8774
+"('Depth 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9963
+"('Depth 6', 'Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9954
+"('Depth 6', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9963
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9954
+"('Depth 6', 'Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII')",10166
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",10166
+"('Depth 6', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",10188
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML')",8789
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML')",8789
+"('Depth 6', 'Latitude 148', 'Magnitude Type ML', 'Year 41')",8647
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Year 41')",8647
+"('Depth 6', 'Latitude 148', 'Year 41')",10012
+"('Depth 6', 'Latitude 148', 'Longitude 6', 'Year 41')",10011
+"('Depth 6', 'Latitude 148', 'Longitude 6')",10235
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML')",8815
+"('Depth 6', 'Longitude 6', 'Magnitude Type ML', 'Year 41')",8658
+"('Depth 6', 'Longitude 6', 'Year 41')",10053
+"('Depth 6', 'Year 41')",11698
+"('Depth 6', 'Magnitude Type ML', 'Year 41')",9896
+"('Depth 6', 'Magnitude Type ML')",16284
+"('Latitude 178', 'Year 24')",3232
+"('Latitude 178', 'Year 16')",3451
+"('Latitude 178', 'Magnitude Type ML', 'Year 16')",3162
+"('Latitude 178', 'Year 0')",4226
+"('Latitude 178', 'Magnitude Type ML', 'Year 0')",4129
+"('Latitude 178', 'Year 33')",4356
+"('Latitude 178', 'Magnitude Type ML', 'Year 33')",3872
+"('Latitude 178', 'Longitude 54')",5543
+"('Latitude 178', 'Longitude 54', 'Magnitude Type ML')",5511
+"('Latitude 178', 'Magnitude Type ML')",18048
+"('Depth 12', 'Year 16')",3374
+"('Depth 12', 'Year 8')",3405
+"('Depth 12', 'Year 0')",3433
+"('Depth 12', 'Magnitude Type ML', 'Year 0')",3332
+"('Depth 12', 'Year 24')",3564
+"('Depth 12', 'Year 33')",3850
+"('Depth 12', 'Longitude 54')",4046
+"('Depth 12', 'Longitude 54', 'Magnitude Type ML')",4024
+"('Depth 12', 'Magnitude Type ML')",15776
+"('Longitude 54', 'Magnitude 31')",3942
+"('Longitude 54', 'Magnitude 31', 'Magnitude Type ML')",3940
+"('Magnitude 31', 'Year 24')",3999
+"('Magnitude 31', 'Year 41')",4263
+"('Magnitude 31', 'Year 33')",4411
+"('Magnitude 31', 'Magnitude Type ML', 'Year 33')",3700
+"('Magnitude 31', 'Magnitude Type ML')",17310
+"('Magnitude 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3457
+"('Latitude 148', 'Magnitude 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3336
+"('Longitude 6', 'Magnitude 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3457
+"('Latitude 148', 'Longitude 6', 'Magnitude 33', 'Region Name ISLAND OF HAWAII, HAWAII')",3336
+"('Latitude 148', 'Magnitude 33')",3584
+"('Latitude 148', 'Longitude 6', 'Magnitude 33')",3440
+"('Longitude 6', 'Magnitude 33')",3682
+"('Longitude 6', 'Magnitude 33', 'Year 41')",3042
+"('Longitude 54', 'Magnitude 33')",3776
+"('Longitude 54', 'Magnitude 33', 'Magnitude Type ML')",3775
+"('Magnitude 33', 'Year 24')",3941
+"('Magnitude 33', 'Year 33')",4265
+"('Magnitude 33', 'Magnitude Type ML', 'Year 33')",3509
+"('Magnitude 33', 'Year 41')",5151
+"('Magnitude 33', 'Magnitude Type ML', 'Year 41')",3641
+"('Magnitude 33', 'Magnitude Type ML')",17116
+"('Month 50', 'Year 8')",3023
+"('Month 50', 'Year 16')",3398
+"('Magnitude Type mb', 'Month 50')",3937
+"('Month 50', 'Year 33')",4050
+"('Month 50', 'Year 41')",4319
+"('Month 50', 'Year 24')",4773
+"('Magnitude Type ML', 'Month 50')",13793
+"('Month 61', 'Year 8')",3161
+"('Month 61', 'Year 16')",3615
+"('Month 61', 'Year 33')",3762
+"('Magnitude Type mb', 'Month 61')",3843
+"('Month 61', 'Year 24')",4273
+"('Month 61', 'Year 41')",4959
+"('Magnitude Type ML', 'Month 61')",13927
+"('Month 45', 'Year 8')",3056
+"('Month 45', 'Year 0')",3126
+"('Month 45', 'Year 41')",3726
+"('Month 45', 'Year 16')",3850
+"('Magnitude Type mb', 'Month 45')",4092
+"('Month 45', 'Year 33')",4186
+"('Month 45', 'Year 24')",4764
+"('Magnitude Type ML', 'Month 45')",13633
+"('Month 16', 'Year 0')",3085
+"('Month 16', 'Year 16')",3292
+"('Month 16', 'Year 41')",3916
+"('Month 16', 'Year 24')",4080
+"('Magnitude Type mb', 'Month 16')",4105
+"('Month 16', 'Year 8')",4365
+"('Month 16', 'Year 33')",4695
+"('Magnitude Type ML', 'Month 16', 'Year 33')",3027
+"('Magnitude Type ML', 'Month 16')",14318
+"('Month 39', 'Year 0')",3157
+"('Month 39', 'Year 8')",3202
+"('Magnitude Type mb', 'Month 39')",3821
+"('Month 39', 'Year 33')",4213
+"('Month 39', 'Year 24')",4349
+"('Month 39', 'Year 41')",5671
+"('Magnitude Type ML', 'Month 39', 'Year 41')",3261
+"('Magnitude Type ML', 'Month 39')",15016
+"('Depth 18', 'Month 56')",3060
+"('Month 56', 'Year 8')",3471
+"('Month 56', 'Year 16')",3900
+"('Magnitude Type mb', 'Month 56')",4030
+"('Month 56', 'Year 33')",4061
+"('Month 56', 'Year 41')",4683
+"('Month 56', 'Year 24')",4723
+"('Magnitude Type ML', 'Month 56')",14942
+"('Month 11', 'Year 0')",3164
+"('Month 11', 'Year 24')",3383
+"('Month 11', 'Year 41')",3895
+"('Magnitude Type mb', 'Month 11')",3983
+"('Month 11', 'Year 8')",4245
+"('Month 11', 'Year 33')",4794
+"('Magnitude Type ML', 'Month 11', 'Year 33')",3132
+"('Magnitude Type ML', 'Month 11')",15135
+"('Month 22', 'Year 16')",3288
+"('Longitude 6', 'Month 22')",3358
+"('Latitude 148', 'Longitude 6', 'Month 22')",3039
+"('Month 22', 'Year 0')",3393
+"('Latitude 148', 'Month 22')",3645
+"('Month 22', 'Year 8')",3720
+"('Magnitude Type mb', 'Month 22')",3811
+"('Month 22', 'Year 24')",4197
+"('Month 22', 'Year 33')",4422
+"('Month 22', 'Year 41')",6490
+"('Magnitude Type ML', 'Month 22', 'Year 41')",3723
+"('Magnitude Type ML', 'Month 22')",15932
+"('Depth 18', 'Month 5')",3310
+"('Longitude 54', 'Month 5')",3321
+"('Longitude 54', 'Magnitude Type ML', 'Month 5')",3279
+"('Month 5', 'Year 24')",3446
+"('Month 5', 'Year 8')",3690
+"('Magnitude Type mb', 'Month 5')",4137
+"('Month 5', 'Year 41')",4141
+"('Month 5', 'Year 33')",4864
+"('Magnitude Type ML', 'Month 5', 'Year 33')",3440
+"('Magnitude Type ML', 'Month 5')",15448
+"('Month 0', 'Year 16')",3108
+"('Month 0', 'Year 24')",3428
+"('Depth 18', 'Month 0')",3615
+"('Magnitude Type mb', 'Month 0')",4034
+"('Month 0', 'Year 33')",4203
+"('Month 0', 'Year 8')",4363
+"('Month 0', 'Year 41')",4685
+"('Magnitude Type ML', 'Month 0')",16549
+"('Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8034
+"('Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",7994
+"('Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8034
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",7994
+"('Latitude 148', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",8099
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",8099
+"('Longitude 6', 'Magnitude Type ML', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",8156
+"('Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9023
+"('Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8971
+"('Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9023
+"('Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",8971
+"('Latitude 148', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",9180
+"('Latitude 148', 'Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",9180
+"('Longitude 6', 'Month 28', 'Region Name ISLAND OF HAWAII, HAWAII')",9261
+"('Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9617
+"('Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9617
+"('Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9571
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",9571
+"('Latitude 148', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",9687
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",9687
+"('Longitude 6', 'Magnitude Type ML', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",9772
+"('Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",11091
+"('Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",11091
+"('Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",11024
+"('Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",11024
+"('Latitude 148', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",11224
+"('Latitude 148', 'Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",11224
+"('Longitude 6', 'Month 33', 'Region Name ISLAND OF HAWAII, HAWAII')",11349
+"('Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",21115
+"('Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",20866
+"('Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",21115
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",20866
+"('Latitude 148', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",22309
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",22309
+"('Longitude 6', 'Magnitude Type ML', 'Region Name ISLAND OF HAWAII, HAWAII')",22795
+"('Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",24930
+"('Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",24576
+"('Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",24930
+"('Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII', 'Year 41')",24576
+"('Latitude 148', 'Region Name ISLAND OF HAWAII, HAWAII')",27191
+"('Latitude 148', 'Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",27191
+"('Longitude 6', 'Region Name ISLAND OF HAWAII, HAWAII')",27976
+"('Month 28', 'Year 0')",3055
+"('Month 28', 'Year 8')",3130
+"('Longitude 54', 'Month 28')",3381
+"('Longitude 54', 'Magnitude Type ML', 'Month 28')",3327
+"('Magnitude Type mb', 'Month 28')",3497
+"('Month 28', 'Year 24')",3912
+"('Month 28', 'Year 33')",4163
+"('Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",8070
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28', 'Year 41')",8011
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 28')",8135
+"('Longitude 6', 'Month 28', 'Year 41')",9082
+"('Latitude 148', 'Longitude 6', 'Month 28', 'Year 41')",9007
+"('Latitude 148', 'Longitude 6', 'Month 28')",9272
+"('Latitude 148', 'Magnitude Type ML', 'Month 28')",8174
+"('Latitude 148', 'Magnitude Type ML', 'Month 28', 'Year 41')",8027
+"('Latitude 148', 'Month 28', 'Year 41')",9073
+"('Month 28', 'Year 41')",12156
+"('Magnitude Type ML', 'Month 28', 'Year 41')",9535
+"('Magnitude Type ML', 'Month 28')",21088
+"('Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",9638
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33', 'Year 41')",9577
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Month 33')",9710
+"('Longitude 6', 'Month 33', 'Year 41')",11126
+"('Latitude 148', 'Longitude 6', 'Month 33', 'Year 41')",11040
+"('Latitude 148', 'Longitude 6', 'Month 33')",11264
+"('Longitude 6', 'Magnitude Type ML', 'Year 41')",21652
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML', 'Year 41')",21162
+"('Latitude 148', 'Longitude 6', 'Magnitude Type ML')",22697
+"('Longitude 6', 'Year 41')",25897
+"('Latitude 148', 'Longitude 6', 'Year 41')",25152
+"('Latitude 148', 'Longitude 6')",28010
+"('Depth 18', 'Longitude 54')",3290
+"('Depth 18', 'Longitude 54', 'Magnitude Type ML')",3130
+"('Longitude 54', 'Year 24')",3527
+"('Longitude 54', 'Magnitude Type ML', 'Year 24')",3486
+"('Longitude 54', 'Year 16')",4235
+"('Longitude 54', 'Magnitude Type ML', 'Year 16')",4154
+"('Longitude 54', 'Year 8')",5382
+"('Longitude 54', 'Magnitude Type ML', 'Year 8')",5294
+"('Longitude 54', 'Year 0')",6399
+"('Longitude 54', 'Magnitude Type ML', 'Year 0')",6309
+"('Longitude 54', 'Year 33')",8733
+"('Longitude 54', 'Magnitude Type ML', 'Year 33')",8624
+"('Longitude 54', 'Magnitude Type ML')",30075
+"('Month 33', 'Year 16')",3243
+"('Magnitude Type mb', 'Month 33')",3719
+"('Month 33', 'Year 24')",4135
+"('Month 33', 'Year 33')",4208
+"('Latitude 148', 'Magnitude Type ML', 'Month 33')",9793
+"('Latitude 148', 'Magnitude Type ML', 'Month 33', 'Year 41')",9625
+"('Latitude 148', 'Month 33', 'Year 41')",11149
+"('Month 33', 'Year 41')",14545
+"('Magnitude Type ML', 'Month 33', 'Year 41')",11261
+"('Magnitude Type ML', 'Month 33')",22300
+"('Depth 18', 'Year 16')",4230
+"('Depth 18', 'Year 0')",4278
+"('Depth 18', 'Year 8')",4467
+"('Depth 18', 'Year 24')",5793
+"('Depth 18', 'Year 33')",6690
+"('Depth 18', 'Magnitude Type ML', 'Year 33')",3204
+"('Depth 18', 'Year 41')",7495
+"('Depth 18', 'Magnitude Type mb')",11712
+"('Depth 18', 'Magnitude Type ML')",16036
+"('Latitude 148', 'Magnitude Type ML')",23432
+"('Latitude 148', 'Magnitude Type ML', 'Year 41')",21480
+"('Latitude 148', 'Year 41')",26000
+"('Magnitude Type mb', 'Year 0')",5587
+"('Magnitude Type ML', 'Year 0')",28301
+"('Magnitude Type mb', 'Year 16')",7548
+"('Magnitude Type ML', 'Year 16')",25881
+"('Magnitude Type mb', 'Year 8')",6565
+"('Magnitude Type ML', 'Year 8')",28001
+"('Magnitude Type mb', 'Year 33')",8289
+"('Magnitude Type mb', 'Year 24')",8770
+"('Magnitude Type mb', 'Year 41')",8937
+"('Year 24',)",49463
+"('Magnitude Type ML', 'Year 24')",27586
+"('Year 33',)",51621
+"('Magnitude Type ML', 'Year 33')",32155
+"('Year 41',)",73186
+"('Magnitude Type ML', 'Year 41')",46018
+"('Magnitude Type ML',)",192081
